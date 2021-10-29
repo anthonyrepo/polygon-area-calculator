@@ -1,3 +1,17 @@
+# Polygon Area Calculator
+
+![image](https://forthebadge.com/images/badges/made-with-python.svg)
+
+A simple shape calculator
+
+![image](https://raw.githubusercontent.com/anthonyrepo/polygon-area-calculator/main/img/output.PNG?token=ASX3E7REZ3CPM7WLBTG5RELBPNC26)
+
+## Technologies Used
+- Python 3.9
+- Python framework
+## Description
+This program is apart of a series of projects for the completion of the [FreeCodeCamp Scientific Computing with Python certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/). The purpose of this program is to provide a simple way to track expenses and compare them all.
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
@@ -61,4 +75,9 @@ Square(side=4)
 8
 ```
 
-The unit tests for this project are in `test_module.py`.
+### Notes
+- The pytest framework was used here to provide concise unite testing for the program
+
+![image](https://raw.githubusercontent.com/anthonyrepo/polygon-area-calculator/main/img/pytest.png?token=ASX3E7WBFDRX3STG3WM3G3DBPNDES)
+## Links
+- FreeCodeCamo's Scientific Computing with Python [certification curriculum](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
