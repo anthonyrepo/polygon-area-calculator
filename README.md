@@ -4,7 +4,7 @@
 
 A simple shape calculator
 
-![image](https://raw.githubusercontent.com/anthonyrepo/polygon-area-calculator/main/img/output.PNG?token=ASX3E7REZ3CPM7WLBTG5RELBPNC26)
+![image](https://raw.githubusercontent.com/anthonyrepo/polygon-area-calculator/main/img/output.PNG?token=ASX3E7SLU4MTQVV2DVFJI5DBPNFTW)
 
 ## Technologies Used
 - Python 3.9
