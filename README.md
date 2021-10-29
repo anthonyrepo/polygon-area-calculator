@@ -78,6 +78,6 @@ Square(side=4)
 ### Notes
 - The pytest framework was used here to provide concise unite testing for the program
 
-![image](https://raw.githubusercontent.com/anthonyrepo/polygon-area-calculator/main/img/pytest.png?token=ASX3E7WBFDRX3STG3WM3G3DBPNDES)
+![image](https://raw.githubusercontent.com/anthonyrepo/polygon-area-calculator/main/img/pytest.png?token=ASX3E7SUX34FF6ESWZVJCVTBPNFQE)
 ## Links
 - FreeCodeCamo's Scientific Computing with Python [certification curriculum](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
