@@ -8,7 +8,7 @@ A simple shape calculator
 
 ## Technologies Used
 - Python 3.9
-- Python framework
+- PyTest framework
 ## Description
 This program is apart of a series of projects for the completion of the [FreeCodeCamp Scientific Computing with Python certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/). The purpose of this program is to provide a simple way to track expenses and compare them all.
 
